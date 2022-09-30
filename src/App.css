@@ -1,0 +1,73 @@
+.blue-logo{
+width: 30px;
+margin: 10px;
+margin-left: 20px;
+
+}
+.car{  border-radius: 50%;
+    width: 20px;
+    margin: 10px;
+    
+    }
+.property{
+    border-radius: 50%;
+        width: 20px;
+        margin: 10px;
+         }
+         .car-parent{
+            margin-left: 20px;
+         }
+         .property-parent{
+            margin-left: 20px;
+         }
+ .black-logo{
+    width: 50px;
+    margin: 30px;
+ }
+ .search-form{
+    margin-top: 10px;
+    width : 50% ;
+    height: 50px;
+ }
+ .footer1{
+    margin: 5px;
+    margin-top: 70px;
+    width: 70px;
+ }
+ .footer2{
+    margin: 5px;
+    margin-top: 70px;
+    width: 70px;
+ }
+ .footer3{
+    margin: 5px;
+    margin-top: 70px;
+    width: 70px;
+ }
+ .footer4{
+    margin: 5px;
+    margin-top: 40px;
+    width: 100px;
+ }
+ .footer5{
+    margin: 5px;
+    margin-top: 40px;
+    width: 100px;
+ }
+ .footer6{
+    margin: 5px;
+    margin-top: 40px;
+    width: 100px;
+ }
+ .facebook{
+    width: 30px;
+ }
+ .instagram{
+    width: 30px;
+ }
+ .youtube{
+    width: 30px;
+ }
+ .twitter{
+    width: 30px;
+ }
